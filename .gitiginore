@@ -1,1 +1,4 @@
 .idea/
+.java-version
+contacts.iml
+target/
